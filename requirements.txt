@@ -1,0 +1,8 @@
+# Python dependencies. Install into a virtual environment:
+#   python -m venv .venv && .venv/Scripts/activate
+#   pip install -r requirements.txt
+numpy>=2.0
+pandas>=2.2
+psycopg[binary]>=3.2
+python-dotenv>=1.0
+tabulate>=0.9
